@@ -1,6 +1,5 @@
 % Adam Elkhanoufi
-% CSC 2262
-% Lab 6
+% 04/15/2022
 
 R1 = 2.56;
 R2 = 4.15;
